@@ -1,0 +1,19 @@
+﻿version: "3.8"
+
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: usermanagement-api
+    ports:
+      - "8080:80"
+      - "8443:443"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Server=host.docker.internal;Database=UserManagementAPIDB;Trusted_Connection=False;User Id=sa;Password=YourStrong@Passw0rd;TrustServerCertificate=True;
+      - Jwt__Key=your-super-secret-key-minimum-32-characters-long-for-docker
+      - Jwt__Issuer=UserManagementAPI
+      - Jwt__Audience=UserManagementClient
+      - Jwt__ExpiryMinutes=60
+    restart: unless-stopped
