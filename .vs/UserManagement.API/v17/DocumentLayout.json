@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NarendraData\\AngularProject\\UserManagement.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49984862-20F4-4954-B060-73C5FDC9D2AE}|UserManagement.API\\UserManagement.API.csproj|d:\\narendradata\\angularproject\\usermanagement.api\\usermanagement.api\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{49984862-20F4-4954-B060-73C5FDC9D2AE}|UserManagement.API\\UserManagement.API.csproj|solutionrelative:usermanagement.api\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49984862-20F4-4954-B060-73C5FDC9D2AE}|UserManagement.API\\UserManagement.API.csproj|d:\\narendradata\\angularproject\\usermanagement.api\\usermanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49984862-20F4-4954-B060-73C5FDC9D2AE}|UserManagement.API\\UserManagement.API.csproj|solutionrelative:usermanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49984862-20F4-4954-B060-73C5FDC9D2AE}|UserManagement.API\\UserManagement.API.csproj|d:\\narendradata\\angularproject\\usermanagement.api\\usermanagement.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49984862-20F4-4954-B060-73C5FDC9D2AE}|UserManagement.API\\UserManagement.API.csproj|solutionrelative:usermanagement.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49984862-20F4-4954-B060-73C5FDC9D2AE}|UserManagement.API\\UserManagement.API.csproj|d:\\narendradata\\angularproject\\usermanagement.api\\usermanagement.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49984862-20F4-4954-B060-73C5FDC9D2AE}|UserManagement.API\\UserManagement.API.csproj|solutionrelative:usermanagement.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49984862-20F4-4954-B060-73C5FDC9D2AE}|UserManagement.API\\UserManagement.API.csproj|d:\\narendradata\\angularproject\\usermanagement.api\\usermanagement.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49984862-20F4-4954-B060-73C5FDC9D2AE}|UserManagement.API\\UserManagement.API.csproj|solutionrelative:usermanagement.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49984862-20F4-4954-B060-73C5FDC9D2AE}|UserManagement.API\\UserManagement.API.csproj|d:\\narendradata\\angularproject\\usermanagement.api\\usermanagement.api\\usermanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{49984862-20F4-4954-B060-73C5FDC9D2AE}|UserManagement.API\\UserManagement.API.csproj|solutionrelative:usermanagement.api\\usermanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49984862-20F4-4954-B060-73C5FDC9D2AE}|UserManagement.API\\UserManagement.API.csproj|d:\\narendradata\\angularproject\\usermanagement.api\\usermanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{49984862-20F4-4954-B060-73C5FDC9D2AE}|UserManagement.API\\UserManagement.API.csproj|solutionrelative:usermanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\NarendraData\\AngularProject\\UserManagement.API\\UserManagement.API\\README.md",
+              "RelativeDocumentMoniker": "UserManagement.API\\README.md",
+              "ToolTip": "D:\\NarendraData\\AngularProject\\UserManagement.API\\UserManagement.API\\README.md",
+              "RelativeToolTip": "UserManagement.API\\README.md",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAD8AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-04-25T08:07:26.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\NarendraData\\AngularProject\\UserManagement.API\\UserManagement.API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "UserManagement.API\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\NarendraData\\AngularProject\\UserManagement.API\\UserManagement.API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "UserManagement.API\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAADwvyoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T06:43:41.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NarendraData\\AngularProject\\UserManagement.API\\UserManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "UserManagement.API\\Program.cs",
+              "ToolTip": "D:\\NarendraData\\AngularProject\\UserManagement.API\\UserManagement.API\\Program.cs",
+              "RelativeToolTip": "UserManagement.API\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAADwvzYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T06:43:18.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserManagement.API.csproj",
+              "DocumentMoniker": "D:\\NarendraData\\AngularProject\\UserManagement.API\\UserManagement.API\\UserManagement.API.csproj",
+              "RelativeDocumentMoniker": "UserManagement.API\\UserManagement.API.csproj",
+              "ToolTip": "D:\\NarendraData\\AngularProject\\UserManagement.API\\UserManagement.API\\UserManagement.API.csproj",
+              "RelativeToolTip": "UserManagement.API\\UserManagement.API.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-25T06:43:02.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\NarendraData\\AngularProject\\UserManagement.API\\UserManagement.API\\appsettings.json",
+              "RelativeDocumentMoniker": "UserManagement.API\\appsettings.json",
+              "ToolTip": "D:\\NarendraData\\AngularProject\\UserManagement.API\\UserManagement.API\\appsettings.json",
+              "RelativeToolTip": "UserManagement.API\\appsettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-25T06:38:16.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\NarendraData\\AngularProject\\UserManagement.API\\UserManagement.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "UserManagement.API\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\NarendraData\\AngularProject\\UserManagement.API\\UserManagement.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "UserManagement.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T06:32:40.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\NarendraData\\AngularProject\\UserManagement.API\\UserManagement.API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "UserManagement.API\\Models\\User.cs",
+              "ToolTip": "D:\\NarendraData\\AngularProject\\UserManagement.API\\UserManagement.API\\Models\\User.cs",
+              "RelativeToolTip": "UserManagement.API\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T06:32:35.044Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
